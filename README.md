@@ -4,4 +4,8 @@ dotfiles
 Unix dotfiles collection
 
 
-Hello World
+Further information:
+* https://dotfiles.github.io/
+* http://thoughtbot.github.io/rcm/rcrc.5.html
+
+
