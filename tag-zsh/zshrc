@@ -82,6 +82,6 @@ export PATH="/usr/local/bin:/Users/flo/bin:/usr/pkg/sbin:/usr/pkg/bin:$PATH"
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-
+source ~/.common.rc.sh
 
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
